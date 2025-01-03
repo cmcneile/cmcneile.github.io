@@ -1,10 +1,10 @@
 ---
-title: Logo Project
+title: Beyond the Standard Model using lattice field theory
 
-notitle: true
+notitle: false
 
 description: |
-  This project has a sweet logo!
+  Beyond the Standard Model
 
 people:
   - storm
@@ -12,7 +12,7 @@ people:
   - ugrad-c
 
 layout: project
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Square_grid_graph.svg/390px-Square_grid_graph.svg.png"
 last-updated: 2017-04-11
 ---
 

@@ -1,6 +1,8 @@
 
 prof-a:
     display_name: "Dr Vincent Drach"
+    webpage: "https://www.plymouth.ac.uk/staff/vincent-drach"
+    image: /img/people/Vincent_Drach.png
     role: faculty
 
 prof-b:
