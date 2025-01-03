@@ -8,11 +8,14 @@ prof-a:
 prof-b:
     display_name: "Dr Ben King"
     role: faculty
+    webpage: "https://www.plymouth.ac.uk/staff/b-king"
+    image: /img/people/ben.png
 
 prof-c:
     display_name: "Dr James Edwards"
     webpage: "https://www.plymouth.ac.uk/staff/james-edwards-2"
     role: faculty
+    image: /img/people/james.png
 
 profx:
     display_name: "Dr. Craig McNeile"
