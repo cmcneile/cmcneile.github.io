@@ -30,6 +30,7 @@ grad-a:
     display_name: "James Hanock"
     webpage: "https://researchportal.plymouth.ac.uk/en/persons/james-hancock"
     role: grad
+    image: img/people/JamesHancock.png
 
 grad-b:
     display_name: "Ivan Ahumada Hernandez"
