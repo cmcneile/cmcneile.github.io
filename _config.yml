@@ -47,3 +47,7 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
+  - title: Outreach
+    link: /outreach.html
+  - title: How to find us
+    link: /code.html
