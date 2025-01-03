@@ -25,11 +25,14 @@ profx:
 
 grad-a:
     display_name: "James Hanock"
+    webpage: "https://researchportal.plymouth.ac.uk/en/persons/james-hancock"
     role: grad
 
 grad-b:
     display_name: "Ivan Ahumada Hernandez"
     role: grad
+    webpage: "https://researchportal.plymouth.ac.uk/en/persons/ivan-ahumada-hernandez"
+    image: img/people/Ivan_photo.png
 
 grad-c:
     display_name: "Grad C"
