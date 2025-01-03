@@ -9,7 +9,7 @@ _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 	mkdir -p _includes
 	$(BIBBLE) $+ > $@
 
-build: _includes/pubs.html
+build: 
 	jekyll build
 
 # you can configure these at the shell, e.g.:
