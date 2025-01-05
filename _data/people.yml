@@ -25,6 +25,12 @@ profx:
     image: /img/people/craig.png
     bio: Lecturer in Theoretical Physics
 
+prof-d:
+    display_name: "Dr Martin Lavelle"
+    webpage: "https://www.plymouth.ac.uk/staff/martin-lavelle"
+    image: img/people/Martin_Lavelle.png
+    role: faculty
+
 
 grad-a:
     display_name: "James Hanock"
@@ -66,14 +72,18 @@ grad-i:
     display_name: "Grad I"
     role: grad
 
+
+Patrick:
+    display_name: "Dr Patrick Copinger"
+    webpage: "https://www.plymouth.ac.uk/staff/patrick-copinger"
+    image: img/people/patrick.png
+    role: postdoc
+
 alum-a:
     display_name: "Alum A"
     role: alum
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
 
 alum-c:
     display_name: "Alum C"

@@ -1,9 +1,20 @@
 ---
 layout: default
-title: Code
+title: How to find us.
 ---
-This is an example of an additional page you could add to the site (and its navigation).
 
-If you like this template, find our group's other code here:
+Our address is 2-5 Kirkby Place, Plymouth.  It is a house close to the
+pub (James Street Vaults (JSV)) and the Rolle building on campus of
+the University of Plymouth.
 
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+* [Main Campus map](https://www.plymouth.ac.uk/about-us/visit/our-campuses)
+
+School of Engineering, Computing and Mathematics,
+Faculty of Science and Engineering,
+University of Plymouth,
+Drake Circus,
+Plymouth
+PL4 8AA
+
+
+
