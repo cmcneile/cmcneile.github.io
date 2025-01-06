@@ -4,10 +4,10 @@ title: Beyond the Standard Model using lattice field theory
 notitle: false
 
 description: |
-  Beyond the Standard Model
+  Beyond the Standard Model of Particle Physics
 
 people:
-  - storm
+  - prof-a
   - grad-b
   - ugrad-c
 
