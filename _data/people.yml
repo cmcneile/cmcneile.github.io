@@ -10,12 +10,14 @@ prof-b:
     role: faculty
     webpage: "https://www.plymouth.ac.uk/staff/b-king"
     image: /img/people/ben.png
+    bio: Associate Professor of Theoretical Physics
 
 prof-c:
     display_name: "Dr James Edwards"
     webpage: "https://www.plymouth.ac.uk/staff/james-edwards-2"
     role: faculty
     image: /img/people/james.png
+    bio: Lecturer in Applied Mathematics/Theoretical Physics
 
 profx:
     display_name: "Dr. Craig McNeile"
@@ -28,7 +30,7 @@ profx:
 prof-d:
     display_name: "Dr Martin Lavelle"
     webpage: "https://www.plymouth.ac.uk/staff/martin-lavelle"
-    image: img/people/Martin_Lavelle.png
+    image: /img/people/Martin_Lavelle.png
     role: faculty
 
 
@@ -36,13 +38,13 @@ grad-a:
     display_name: "James Hanock"
     webpage: "https://researchportal.plymouth.ac.uk/en/persons/james-hancock"
     role: grad
-    image: img/people/JamesHancock.png
+    image: /img/people/JamesHancock.png
 
 grad-b:
     display_name: "Ivan Ahumada Hernandez"
     role: grad
     webpage: "https://researchportal.plymouth.ac.uk/en/persons/ivan-ahumada-hernandez"
-    image: img/people/Ivan_photo.png
+    image: /img/people/Ivan_photo.png
 
 grad-c:
     display_name: "Grad C"
@@ -76,8 +78,17 @@ grad-i:
 Patrick:
     display_name: "Dr Patrick Copinger"
     webpage: "https://www.plymouth.ac.uk/staff/patrick-copinger"
-    image: img/people/patrick.png
+    image: /img/people/patrick.png
     role: postdoc
+
+Di:
+    display_name: "Dr Di Liu"
+    webpage: "https://researchportal.plymouth.ac.uk/en/persons/di-liu"
+    image: /img/people/Di.png
+    role: postdoc
+
+
+
 
 alum-a:
     display_name: "Alum A"

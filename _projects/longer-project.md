@@ -1,5 +1,5 @@
 ---
-title: Project with a Longer Title
+title: strong-field QED (quantum electrodynamics)
 subtitle: And a subtitle
 
 description: |
@@ -7,13 +7,22 @@ description: |
   Setting the `no-link` property means that there's no link.
 
 people:
-  - storm
-  - profx
+  - prof-b
+  - prof-c
   - grad-b
-  - scott
-  - wolverine
+  - Patrick
+  - Di
 
 layout: project
-no-link: true
+no-link: false
 last-updated: 2016-11-11
 ---
+
+## Overview
+
+This research group studies how charged particles and light behave in intense
+electromagnetic fields such as one would find in the most intense
+laser pulses or in the very strong fields of magnetised neutron
+stars. This research area is sometimes called `nonlinear' or
+`strong-field' QED (quantum electrodynamics) and the main tool to
+study it is quantum field theory.
