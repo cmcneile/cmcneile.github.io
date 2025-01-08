@@ -9,6 +9,7 @@ description: |
 people:
   - prof-a
   - grad-b
+  - prof-e
   - ugrad-c
 
 layout: project

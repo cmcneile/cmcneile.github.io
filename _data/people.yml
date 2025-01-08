@@ -34,6 +34,12 @@ prof-d:
     image: /img/people/Martin_Lavelle.png
     role: faculty
 
+prof-e:
+    display_name: "Dr Davide Vadacchino"
+    webpage: "https://www.plymouth.ac.uk/staff/davide-vadacchino"
+    image: /img/people/davide.png
+    role: faculty
+
 
 grad-a:
     display_name: "James Hanock"
