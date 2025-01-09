@@ -133,7 +133,8 @@ alum-i:
     role: alum
 
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "Matthew Craven"
+    webpage: "https://www.plymouth.ac.uk/staff/matthew-craven"
     role: collab
 
 collab-b:
