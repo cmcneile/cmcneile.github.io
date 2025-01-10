@@ -61,8 +61,10 @@ grad-c:
 
 
 grad-d:
-    display_name: "Grad D"
+    display_name: "Nuno Rebelo Brito"
+    webpage: "https://researchportal.plymouth.ac.uk/en/persons/nuno-brito"
     role: grad
+    image: img/people/nuno.png
 
 grad-e:
     display_name: "Grad E"
@@ -101,15 +103,17 @@ Di:
 
 
 alum-a:
-    display_name: "Alum A"
+    display_name: "Gaurav Sinha Ray"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
+    bio: "Ph.D., 2023 "
+    image: /img/people/gaurav.png
+    webpage: "https://pearl.plymouth.ac.uk/secam-theses/185/"
 
 alum-c:
-    display_name: "Alum C"
+    display_name: "Prof. Kurt Langfeld"
     role: alum
-    webpage: "https://www.google.com"
+    bio: Dean - School of Computer, Data and Mathematical Sciences, School of Computer, Data and Mathematical Sciences
+    webpage: "https://researchers.westernsydney.edu.au/en/persons/kurt-langfeld"
 
 alum-d:
     display_name: "Alum D"

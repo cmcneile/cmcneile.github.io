@@ -5,7 +5,7 @@ description: |
   Lattice QCD calculation of HVP of muon.
 
 people:
-  - storm
+  - alum-a
   - profx
 
 layout: project

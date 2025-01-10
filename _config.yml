@@ -18,11 +18,11 @@ roles:
   - key: postdoc
     name: Researchers
   - key: grad
-    name: Graduate Students
+    name: Physics Graduate Students
   - key: ugrad
     name: Undergraduate Students
   - key: ugrad-alum
-    name: Past Undergraduate Students
+    name: Graduate Students (Data science/ Computing)
   - key: collab
     name: Collaborators
   - key: alum
