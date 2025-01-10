@@ -3,7 +3,6 @@ title: High Performance Computing
 
 description: |
   The University of Plymouth has recently installed a new HPC system.
-  It also has some `Mark` _down_
 
 people:
   - storm

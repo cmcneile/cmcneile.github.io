@@ -3,8 +3,9 @@ title: strong-field QED (quantum electrodynamics)
 subtitle: And a subtitle
 
 description: |
-  This project has a long title, but no other content.
-  Setting the `no-link` property means that there's no link.
+  When a powerful laser beam is focused on a free electron the acceleration of the latter
+  is so violent that the interaction is nonlinear.
+
 
 people:
   - prof-b

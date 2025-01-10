@@ -32,6 +32,7 @@ prof-d:
     display_name: "Dr Martin Lavelle"
     webpage: "https://www.plymouth.ac.uk/staff/martin-lavelle"
     image: /img/people/Martin_Lavelle.png
+    bio: Emeritus Reader in Theoretical Physics
     role: faculty
 
 prof-e:
@@ -64,11 +65,13 @@ grad-d:
     display_name: "Nuno Rebelo Brito"
     webpage: "https://researchportal.plymouth.ac.uk/en/persons/nuno-brito"
     role: grad
-    image: img/people/nuno.png
+    image: /img/people/nuno.png
 
 grad-e:
-    display_name: "Grad E"
+    display_name: "Maxwell Gisborne"
     role: grad
+    webpage: "https://www.plymouth.ac.uk/staff/maxwell-gisborne"
+    image: /img/people/Maxwell-Gisborne.png 
 
 grad-f:
     display_name: "Grad F"
