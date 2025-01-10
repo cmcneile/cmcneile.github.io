@@ -39,7 +39,7 @@ prof-e:
     webpage: "https://www.plymouth.ac.uk/staff/davide-vadacchino"
     image: /img/people/davide.png
     role: faculty
-
+    bio: Lecturer in Applied Mathematics/Theoretical Physics
 
 grad-a:
     display_name: "James Hanock"
@@ -54,8 +54,11 @@ grad-b:
     image: /img/people/Ivan_photo.png
 
 grad-c:
-    display_name: "Grad C"
+    display_name: "Laurence Bowes"
     role: grad
+    webpage: "https://www.plymouth.ac.uk/staff/laurence-bowes"
+    image: /img/people/laurence.png
+
 
 grad-d:
     display_name: "Grad D"

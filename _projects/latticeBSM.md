@@ -8,7 +8,7 @@ description: |
 
 people:
   - prof-a
-  - grad-b
+  - grad-c
   - prof-e
   - ugrad-c
 
