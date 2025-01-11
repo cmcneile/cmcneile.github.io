@@ -47,6 +47,8 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
+  - title: Seminar
+    link: /blog.html
   - title: Outreach
     link: /outreach.html
   - title: Vacancies
