@@ -119,7 +119,9 @@ alum-c:
     webpage: "https://researchers.westernsydney.edu.au/en/persons/kurt-langfeld"
 
 alum-d:
-    display_name: "Alum D"
+    display_name: "Prof. Antonio Rago"
+    webpage: "https://portal.findresearcher.sdu.dk/en/persons/rago"
+    bio: "Associate Professor, Computational Science, University of Southern Denmark"
     role: alum
 
 alum-e:
