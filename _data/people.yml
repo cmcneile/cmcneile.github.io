@@ -42,6 +42,14 @@ prof-e:
     role: faculty
     bio: Lecturer in Applied Mathematics/Theoretical Physics
 
+prof-f:
+    display_name: "Dr Tom Heinzl"
+    webpage: "https://www.plymouth.ac.uk/staff/tom-heinzl"
+    image: /img/people/Tom-Heinzl.png
+    role: faculty
+    bio: Associate Professor in Theoretical Physics
+
+
 grad-a:
     display_name: "James Hanock"
     webpage: "https://researchportal.plymouth.ac.uk/en/persons/james-hancock"
