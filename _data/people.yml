@@ -49,6 +49,13 @@ prof-f:
     role: faculty
     bio: Associate Professor in Theoretical Physics
 
+prof-g:
+    display_name: "Professor David McMullan"
+    webpage: "https://www.plymouth.ac.uk/staff/david-mcmullan"
+    image: /img/people/David_McMullan.png
+    role: faculty
+    bio: Emeritus Professor
+
 
 grad-a:
     display_name: "James Hanock"
