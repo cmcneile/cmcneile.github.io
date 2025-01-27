@@ -121,7 +121,7 @@ Di:
 
 
 alum-a:
-    display_name: "Gaurav Sinha Ray"
+    display_name: "Dr. Gaurav Sinha Ray"
     role: alum
     bio: "Ph.D., 2023 "
     image: /img/people/gaurav.png
@@ -140,14 +140,17 @@ alum-d:
     role: alum
 
 alum-e:
-    display_name: "Francesco Capponi"
+    display_name: "Dr. Francesco Capponi"
     role: alum
     bio: "PhD 2017"
     webpage: https://pearl.plymouth.ac.uk/fose-theses-other/336/
 
 alum-f:
-    display_name: "Alum F"
+    display_name: "Dr. Lauren Ansell"
     role: alum
+    bio: "Lecturer in Data Science"
+    webpage: https://www.plymouth.ac.uk/staff/lauren-ansell
+    image: img/people/Lauren-Ansel.png
 
 alum-g:
     display_name: "Alum G"
