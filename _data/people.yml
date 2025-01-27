@@ -140,8 +140,10 @@ alum-d:
     role: alum
 
 alum-e:
-    display_name: "Alum E"
+    display_name: "Francesco Capponi"
     role: alum
+    bio: "PhD 2017"
+    webpage: https://pearl.plymouth.ac.uk/fose-theses-other/336/
 
 alum-f:
     display_name: "Alum F"
