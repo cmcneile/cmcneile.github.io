@@ -89,8 +89,10 @@ grad-e:
     image: /img/people/Maxwell-Gisborne.png 
 
 grad-f:
-    display_name: "Grad F"
+    display_name: "Muhammad Ridwan"
     role: grad
+    webpage: "https://www.linkedin.com/in/muhammad-ridwan-1392a516b/?originalSubdomain=uk"
+    image: /img/people/MuhammadRidwan.png
 
 grad-g:
     display_name: "Grad G"
