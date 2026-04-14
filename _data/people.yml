@@ -94,18 +94,7 @@ grad-f:
     webpage: "https://www.linkedin.com/in/muhammad-ridwan-1392a516b/?originalSubdomain=uk"
     image: /img/people/MuhammadRidwan.png
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
+## Postdocs
 
 Anthony:
     display_name: "Dr Anthony Mercuri-Baron"
@@ -184,17 +173,6 @@ collab-b:
     display_name: "Collaborator B With Long Name"
     role: collab
 
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
 
 ugrad-a:
     display_name: "Ugrad A"
@@ -225,3 +203,6 @@ grad-compute-a:
 grad-compute-b:
     display_name: "Pramudya Tilakaratne"
     role: grad-compute
+    bio: "PhD in Data Science"
+    webpage: "https://researchportal.plymouth.ac.uk/en/persons/pramudya-tilakaratne/"
+    
