@@ -5,7 +5,7 @@ description: |
   The University of Plymouth has recently installed a new HPC system.
 
 people:
-  - storm
+  - prof-a
   - profx
   - grad-a
   - grad-b
