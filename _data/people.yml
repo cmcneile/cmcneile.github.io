@@ -107,11 +107,19 @@ grad-i:
     role: grad
 
 
+Anthony:
+    display_name: "Dr Anthony Mercuri-Baron"
+    webpage: "https://researchportal.plymouth.ac.uk/en/persons/anthony-mercuri-baron"
+    role: postdoc
+
+
+
 Patrick:
     display_name: "Dr Patrick Copinger"
-    webpage: "https://www.plymouth.ac.uk/staff/patrick-copinger"
+    webpage: "https://inspirehep.net/authors/1806304"
     image: /img/people/patrick.png
-    role: postdoc
+    role: alum
+    bio: "Postdoc 2023-2025"
 
 Di:
     display_name: "Dr Di Liu"

@@ -10,7 +10,7 @@ people:
   - prof-a
   - grad-c
   - prof-e
-  - ugrad-c
+  - grad-d
 
 layout: project
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Square_grid_graph.svg/390px-Square_grid_graph.svg.png"
