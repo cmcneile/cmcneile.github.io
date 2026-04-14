@@ -219,6 +219,8 @@ ugrad-e:
 grad-compute-a:
     display_name: "Josh Gray"
     role: grad-compute
+    webpage: "https://www.plymouth.ac.uk/staff/josh-gray"
+    bio: "PhD in Quantum Computing"
 
 grad-compute-b:
     display_name: "Pramudya Tilakaratne"
