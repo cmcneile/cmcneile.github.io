@@ -10,6 +10,7 @@ people:
   - profx
   - grad-a
   - collab-a
+  - grad-compute-a
 
 layout: project
 link: "https://en.wikipedia.org/wiki/Quantum_computing"
