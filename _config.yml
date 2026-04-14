@@ -21,7 +21,7 @@ roles:
     name: Physics Graduate Students
   - key: ugrad
     name: Undergraduate Students
-  - key: ugrad-alum
+  - key: grad-compute
     name: Graduate Students (Data science/ Computing)
   - key: collab
     name: Collaborators

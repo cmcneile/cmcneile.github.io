@@ -216,10 +216,10 @@ ugrad-e:
     display_name: "Ugrad E"
     role: ugrad
 
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+grad-compute-a:
+    display_name: "Josh Gray"
+    role: grad-compute
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+grad-compute-b:
+    display_name: "Pramudya Tilakaratne"
+    role: grad-compute
