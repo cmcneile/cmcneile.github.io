@@ -17,13 +17,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Square_grid_gr
 last-updated: 2017-04-11
 ---
 
-Some preliminary text.
 
-## header
+## Overview of BSM on the lattice
 
-Maecenas _scelerisque ut enim non convallis_. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
+Lattice field theory is a broadly applicable tool to study strongly coupled quantum field theories
+
+* Near-conformal strong dynamics composite Higgs; partial compositeness; symmetric mass generation
+* Composite dark matter, direct & collider searches; self-interactions; gravitational waves
