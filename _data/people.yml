@@ -152,34 +152,20 @@ alum-f:
     webpage: https://www.plymouth.ac.uk/staff/lauren-ansell
     image: img/people/Lauren-Ansel.png
 
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
 
 collab-a:
-    display_name: "Matthew Craven"
+    display_name: "Dr Matthew Craven"
     webpage: "https://www.plymouth.ac.uk/staff/matthew-craven"
     role: collab
 
 collab-b:
-    display_name: "Collaborator B With Long Name"
+    display_name: "Dr Dena Bazazian"
+    webpage: "https://www.plymouth.ac.uk/staff/dena-bazazian"
     role: collab
-
+    bio: "Lecturer in Robotics and Machine Vision"
 
 ugrad-a:
     display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
     role: ugrad
 
 ugrad-c:

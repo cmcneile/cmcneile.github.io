@@ -27,12 +27,12 @@ In early 2025 the University of Plymouth installed a new HPC cluster on campus.
 The cluster has a mixture of hardware from PC nodes to Graphical Processing Units (GPU). The design of the system was motivated by the many different
 "use cases" by the research community at the University of Plymouth.
 
-See https://www.plymouth.ac.uk/facilities/high-performance-computing for
+See [here](https://www.plymouth.ac.uk/facilities/high-performance-computing) for
 details of the cluster.
 
 Some of the physics projects that use the cluster.
 
-* Developing quantum computing algorithms to optimize the layout of a wind farm
+* Developing quantum computing algorithms to optimize the layout of a wind farm. [More details in the paper](https://inspirehep.net/literature/3094579).
 
-* A novel simulation algorithm to solve quantum mechanics problems with improved performance with a higher number of particles.
+* A novel simulation algorithm to solve quantum mechanics problems with improved performance with a higher number of particles. [More details in the paper](https://inspirehep.net/literature/3096694).
 
