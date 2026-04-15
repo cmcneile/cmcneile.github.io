@@ -194,7 +194,7 @@ grad-compute-b:
     webpage: "https://researchportal.plymouth.ac.uk/en/persons/pramudya-tilakaratne/"
 
 grad-compute-c:
-    display_name:"Lakmini Herath"
+    display_name: "Lakmini Herath"
     role: grad-compute
     bio: "PhD in Data Science"
     webpage: "https://www.linkedin.com/in/lakmini-herath-8b7b5788/"
